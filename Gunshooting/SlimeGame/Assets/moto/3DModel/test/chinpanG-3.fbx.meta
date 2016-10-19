@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 087bc17917ea8c74b8fa4af05d252fe7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: asi
+    100002: asi_L_
+    100004: asi_R_
+    100006: asikubi_L_
+    100008: asikubi_R_
+    100010: //RootNode
+    100012: hiji_L_
+    100014: hiji_R_
+    100016: hiza_L_
+    100018: hiza_R_
+    100020: karada
+    100022: karada 1
+    100024: Mesh
+    100026: se
+    100028: tume_L_
+    100030: tume_R_
+    100032: ude
+    100034: ude_L_
+    100036: ude_R_
+    400000: asi
+    400002: asi_L_
+    400004: asi_R_
+    400006: asikubi_L_
+    400008: asikubi_R_
+    400010: //RootNode
+    400012: hiji_L_
+    400014: hiji_R_
+    400016: hiza_L_
+    400018: hiza_R_
+    400020: karada
+    400022: karada 1
+    400024: Mesh
+    400026: se
+    400028: tume_L_
+    400030: tume_R_
+    400032: ude
+    400034: ude_L_
+    400036: ude_R_
+    4300000: karada
+    4300002: ude
+    4300004: asi
+    7400000: RUN
+    9500000: //RootNode
+    13700000: asi
+    13700002: karada
+    13700004: ude
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RUN
+      takeName: RUN
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: asi_L_
+        weight: 1
+      - path: asi_L_/hiza_L_
+        weight: 1
+      - path: asi_L_/hiza_L_/asikubi_L_
+        weight: 1
+      - path: asi_R_
+        weight: 1
+      - path: asi_R_/hiza_R_
+        weight: 1
+      - path: asi_R_/hiza_R_/asikubi_R_
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Mesh/asi
+        weight: 1
+      - path: Mesh/karada
+        weight: 1
+      - path: Mesh/ude
+        weight: 1
+      - path: se
+        weight: 1
+      - path: se/karada 1
+        weight: 1
+      - path: se/karada 1/ude_L_
+        weight: 1
+      - path: se/karada 1/ude_L_/hiji_L_
+        weight: 1
+      - path: se/karada 1/ude_L_/hiji_L_/tume_L_
+        weight: 1
+      - path: se/karada 1/ude_R_
+        weight: 1
+      - path: se/karada 1/ude_R_/hiji_R_
+        weight: 1
+      - path: se/karada 1/ude_R_/hiji_R_/tume_R_
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

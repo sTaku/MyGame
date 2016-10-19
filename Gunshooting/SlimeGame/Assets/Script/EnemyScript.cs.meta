@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 980f336bc14f91d458e672db5b1aae5d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - flashObj: {fileID: 100000, guid: 9bd01cadcf768a74fb274958e5704d71, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
