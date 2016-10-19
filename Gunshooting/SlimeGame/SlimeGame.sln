@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimeGame.CSharp.Plugins", "SlimeGame.CSharp.Plugins.csproj", "{F922F206-4AD5-D41A-6505-7483DB8E400A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimeGame.CSharp", "SlimeGame.CSharp.csproj", "{CCE32157-A612-DCDD-43EF-28279B03D822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimeGame.CSharp.Editor", "SlimeGame.CSharp.Editor.csproj", "{AB0BF88F-5D42-4A8C-B4F2-620727D6495B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F922F206-4AD5-D41A-6505-7483DB8E400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F922F206-4AD5-D41A-6505-7483DB8E400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F922F206-4AD5-D41A-6505-7483DB8E400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F922F206-4AD5-D41A-6505-7483DB8E400A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE32157-A612-DCDD-43EF-28279B03D822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE32157-A612-DCDD-43EF-28279B03D822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE32157-A612-DCDD-43EF-28279B03D822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE32157-A612-DCDD-43EF-28279B03D822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0BF88F-5D42-4A8C-B4F2-620727D6495B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0BF88F-5D42-4A8C-B4F2-620727D6495B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0BF88F-5D42-4A8C-B4F2-620727D6495B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0BF88F-5D42-4A8C-B4F2-620727D6495B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
